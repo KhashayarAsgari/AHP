@@ -1,0 +1,620 @@
+[
+  {
+    "City":"Afghanistan-Kabul"
+  },
+  {
+    "City":"Albania-Tirana"
+  },
+  {
+    "City":"Algeria-Algiers"
+  },
+  {
+    "City":"Andorra-Andorra la Vella"
+  },
+  {
+    "City":"Angola-Luanda"
+  },
+  {
+    "City":"Antigua and Barbuda-Saint John's"
+  },
+  {
+    "City":"Argentina-Buenos Aires"
+  },
+  {
+    "City":"Armenia-Yerevan"
+  },
+  {
+    "City":"Australia-Canberra"
+  },
+  {
+    "City":"Austria-Vienna"
+  },
+  {
+    "City":"Azerbaijan-Baku"
+  },
+  {
+    "City":"The Bahamas-Nassau"
+  },
+  {
+    "City":"Bahrain-Manama"
+  },
+  {
+    "City":"Bangladesh-Dhaka"
+  },
+  {
+    "City":"Barbados-Bridgetown"
+  },
+  {
+    "City":"Belarus-Minsk"
+  },
+  {
+    "City":"Belgium-Brussels"
+  },
+  {
+    "City":"Belize-Belmopan"
+  },
+  {
+    "City":"Benin-Porto-Novo"
+  },
+  {
+    "City":"Bhutan-Thimphu"
+  },
+  {
+    "City":"Bolivia-La Paz"
+  },
+  {
+    "City":"Bosnia and Herzegovina-Sarajevo"
+  },
+  {
+    "City":"Botswana-Gaborone"
+  },
+  {
+    "City":"Brazil-Bras\u00edlia"
+  },
+  {
+    "City":"Brunei-Bandar Seri Begawan"
+  },
+  {
+    "City":"Bulgaria-Sofia"
+  },
+  {
+    "City":"Burkina Faso-Ouagadougou"
+  },
+  {
+    "City":"Burundi-Gitega"
+  },
+  {
+    "City":"Cabo Verde-Praia"
+  },
+  {
+    "City":"Cambodia-Phnom Penh"
+  },
+  {
+    "City":"Cameroon-Yaound\u00e9"
+  },
+  {
+    "City":"Canada-Ottawa"
+  },
+  {
+    "City":"Central African Republic-Bangui"
+  },
+  {
+    "City":"Chad-N'Djamena"
+  },
+  {
+    "City":"Chile-Santiago"
+  },
+  {
+    "City":"China-Beijing"
+  },
+  {
+    "City":"Colombia-Bogot\u00e1"
+  },
+  {
+    "City":"Comoros-Moroni"
+  },
+  {
+    "City":"Congo, Democratic Republic of the-Kinshasa"
+  },
+  {
+    "City":"Congo, Republic of the-Brazzaville"
+  },
+  {
+    "City":"Costa Rica-San Jos\u00e9"
+  },
+  {
+    "City":"C\u00f4te d'Ivoire-Yamoussoukro"
+  },
+  {
+    "City":"Croatia-Zagreb"
+  },
+  {
+    "City":"Cuba-Havana"
+  },
+  {
+    "City":"Cyprus-Nicosia"
+  },
+  {
+    "City":"Czech Republic-Prague"
+  },
+  {
+    "City":"Denmark-Copenhagen"
+  },
+  {
+    "City":"Djibouti-Djibouti City"
+  },
+  {
+    "City":"Dominica-Roseau"
+  },
+  {
+    "City":"Dominican Republic-Santo Domingo"
+  },
+  {
+    "City":"Ecuador-Quito"
+  },
+  {
+    "City":"Egypt-Cairo"
+  },
+  {
+    "City":"El Salvador-San Salvador"
+  },
+  {
+    "City":"Equatorial Guinea-Malabo"
+  },
+  {
+    "City":"Eritrea-Asmara"
+  },
+  {
+    "City":"Estonia-Tallinn"
+  },
+  {
+    "City":"Eswatini-Mbabane"
+  },
+  {
+    "City":"Ethiopia-Addis Ababa"
+  },
+  {
+    "City":"Fiji-Suva"
+  },
+  {
+    "City":"Finland-Helsinki"
+  },
+  {
+    "City":"France-Paris"
+  },
+  {
+    "City":"Gabon-Libreville"
+  },
+  {
+    "City":"The Gambia-Banjul"
+  },
+  {
+    "City":"Georgia-Tbilisi"
+  },
+  {
+    "City":"Germany-Berlin"
+  },
+  {
+    "City":"Ghana-Accra"
+  },
+  {
+    "City":"Greece-Athens"
+  },
+  {
+    "City":"Grenada-Saint George's"
+  },
+  {
+    "City":"Guatemala-Guatemala City"
+  },
+  {
+    "City":"Guinea-Conakry"
+  },
+  {
+    "City":"Guinea-Bissau-Bissau"
+  },
+  {
+    "City":"Guyana-Georgetown"
+  },
+  {
+    "City":"Haiti-Port-au-Prince"
+  },
+  {
+    "City":"Honduras-Tegucigalpa"
+  },
+  {
+    "City":"Hungary-Budapest"
+  },
+  {
+    "City":"Iceland-Reykjavik"
+  },
+  {
+    "City":"India-New Delhi"
+  },
+  {
+    "City":"Indonesia-Jakarta"
+  },
+  {
+    "City":"Iran-Tehran"
+  },
+  {
+    "City":"Iraq-Baghdad"
+  },
+  {
+    "City":"Ireland-Dublin"
+  },
+  {
+    "City":"Israel-Jerusalem"
+  },
+  {
+    "City":"Italy-Rome"
+  },
+  {
+    "City":"Jamaica-Kingston"
+  },
+  {
+    "City":"Japan-Tokyo"
+  },
+  {
+    "City":"Jordan-Amman"
+  },
+  {
+    "City":"Kazakhstan-Nur-Sultan"
+  },
+  {
+    "City":"Kenya-Nairobi"
+  },
+  {
+    "City":"Kiribati-Tarawa"
+  },
+  {
+    "City":"Korea, North-Pyongyang"
+  },
+  {
+    "City":"Korea, South-Seoul"
+  },
+  {
+    "City":"Kuwait-Kuwait City"
+  },
+  {
+    "City":"Kyrgyzstan-Bishkek"
+  },
+  {
+    "City":"Laos-Vientiane"
+  },
+  {
+    "City":"Latvia-Riga"
+  },
+  {
+    "City":"Lebanon-Beirut"
+  },
+  {
+    "City":"Lesotho-Maseru"
+  },
+  {
+    "City":"Liberia-Monrovia"
+  },
+  {
+    "City":"Libya-Tripoli"
+  },
+  {
+    "City":"Liechtenstein-Vaduz"
+  },
+  {
+    "City":"Lithuania-Vilnius"
+  },
+  {
+    "City":"Luxembourg-Luxembourg City"
+  },
+  {
+    "City":"Madagascar-Antananarivo"
+  },
+  {
+    "City":"Malawi-Lilongwe"
+  },
+  {
+    "City":"Malaysia-Kuala Lumpur"
+  },
+  {
+    "City":"Maldives-Mal\u00e9"
+  },
+  {
+    "City":"Mali-Bamako"
+  },
+  {
+    "City":"Malta-Valletta"
+  },
+  {
+    "City":"Marshall Islands-Majuro"
+  },
+  {
+    "City":"Mauritania-Nouakchott"
+  },
+  {
+    "City":"Mauritius-Port Louis"
+  },
+  {
+    "City":"Mexico-Mexico City"
+  },
+  {
+    "City":"Micronesia-Palikir"
+  },
+  {
+    "City":"Moldova-Chisinau"
+  },
+  {
+    "City":"Monaco-Monaco"
+  },
+  {
+    "City":"Mongolia-Ulaanbaatar"
+  },
+  {
+    "City":"Montenegro-Podgorica"
+  },
+  {
+    "City":"Morocco-Rabat"
+  },
+  {
+    "City":"Mozambique-Maputo"
+  },
+  {
+    "City":"Myanmar (Burma)-Naypyidaw"
+  },
+  {
+    "City":"Namibia-Windhoek"
+  },
+  {
+    "City":"Nauru-Yaren"
+  },
+  {
+    "City":"Nepal-Kathmandu"
+  },
+  {
+    "City":"Netherlands-Amsterdam"
+  },
+  {
+    "City":"New Zealand-Wellington"
+  },
+  {
+    "City":"Nicaragua-Managua"
+  },
+  {
+    "City":"Niger-Niamey"
+  },
+  {
+    "City":"Nigeria-Abuja"
+  },
+  {
+    "City":"North Macedonia-Skopje"
+  },
+  {
+    "City":"Norway-Oslo"
+  },
+  {
+    "City":"Oman-Muscat"
+  },
+  {
+    "City":"Pakistan-Islamabad"
+  },
+  {
+    "City":"Palau-Ngerulmud"
+  },
+  {
+    "City":"Panama-Panama City"
+  },
+  {
+    "City":"Papua New Guinea-Port Moresby"
+  },
+  {
+    "City":"Paraguay-Asunci\u00f3n"
+  },
+  {
+    "City":"Peru-Lima"
+  },
+  {
+    "City":"Philippines-Manila"
+  },
+  {
+    "City":"Poland-Warsaw"
+  },
+  {
+    "City":"Portugal-Lisbon"
+  },
+  {
+    "City":"Qatar-Doha"
+  },
+  {
+    "City":"Romania-Bucharest"
+  },
+  {
+    "City":"Russia-Moscow"
+  },
+  {
+    "City":"Rwanda-Kigali"
+  },
+  {
+    "City":"Saint Kitts and Nevis-Basseterre"
+  },
+  {
+    "City":"Saint Lucia-Castries"
+  },
+  {
+    "City":"Saint Vincent and the Grenadines-Kingstown"
+  },
+  {
+    "City":"Samoa-Apia"
+  },
+  {
+    "City":"San Marino-San Marino"
+  },
+  {
+    "City":"Sao Tome and Principe-S\u00e3o Tom\u00e9"
+  },
+  {
+    "City":"Saudi Arabia-Riyadh"
+  },
+  {
+    "City":"Senegal-Dakar"
+  },
+  {
+    "City":"Serbia-Belgrade"
+  },
+  {
+    "City":"Seychelles-Victoria"
+  },
+  {
+    "City":"Sierra Leone-Freetown"
+  },
+  {
+    "City":"Singapore-Singapore"
+  },
+  {
+    "City":"Slovakia-\u6781\u597d"
+  },
+  {
+    "City":"Slovenia-Ljubljana"
+  },
+  {
+    "City":"Solomon Islands-Honiara"
+  },
+  {
+    "City":"Somalia-Mogadishu"
+  },
+  {
+    "City":"South Africa-Pretoria"
+  },
+  {
+    "City":"Spain-Madrid"
+  },
+  {
+    "City":"Sri Lanka-Colombo"
+  },
+  {
+    "City":"Sudan-Khartoum"
+  },
+  {
+    "City":"Suriname-Paramaribo"
+  },
+  {
+    "City":"Sweden-Stockholm"
+  },
+  {
+    "City":"Switzerland-Bern"
+  },
+  {
+    "City":"Syria-Damascus"
+  },
+  {
+    "City":"Taiwan-Taipei"
+  },
+  {
+    "City":"Tanzania-Dodoma"
+  },
+  {
+    "City":"Thailand-Bangkok"
+  },
+  {
+    "City":"Togo-Lom\u00e9"
+  },
+  {
+    "City":"Tonga-Nuku'alofa"
+  },
+  {
+    "City":"Trinidad and Tobago-Port of Spain"
+  },
+  {
+    "City":"Turkey-Ankara"
+  },
+  {
+    "City":"Turkmenistan-Ashgabat"
+  },
+  {
+    "City":"Tuvalu-Funafuti"
+  },
+  {
+    "City":"Uganda-Kampala"
+  },
+  {
+    "City":"Ukraine-Kyiv"
+  },
+  {
+    "City":"United Arab Emirates-Abu Dhabi"
+  },
+  {
+    "City":"United Kingdom-London"
+  },
+  {
+    "City":"United States-Washington D.C."
+  },
+  {
+    "City":"Uruguay-Montevideo"
+  },
+  {
+    "City":"Uzbekistan-Tashkent"
+  },
+  {
+    "City":"Vanuatu-Port Vila"
+  },
+  {
+    "City":"Vatican City-Vatican City"
+  },
+  {
+    "City":"Venezuela-Caracas"
+  },
+  {
+    "City":"Vietnam-Hanoi"
+  },
+  {
+    "City":"Yemen-Sana'a"
+  },
+  {
+    "City":"Zambia-Lusaka"
+  },
+  {
+    "City":"Zimbabwe-Harare"
+  },
+  {
+    "City":"United States-New York"
+  },
+  {
+    "City":"United States-Los Angeles"
+  },
+  {
+    "City":"United States-Chicago"
+  },
+  {
+    "City":"United States-Houston"
+  },
+  {
+    "City":"United States-Phoenix"
+  },
+  {
+    "City":"United States-Philadelphia"
+  },
+  {
+    "City":"United States-San Antonio"
+  },
+  {
+    "City":"United States-San Diego"
+  },
+  {
+    "City":"United States-Dallas"
+  },
+  {
+    "City":"United States-San Jose"
+  },
+  {
+    "City":"United States-Austin"
+  },
+  {
+    "City":"United States-Jacksonville"
+  },
+  {
+    "City":"United States-Fort Worth"
+  },
+  {
+    "City":"United States-Columbus"
+  },
+  {
+    "City":"United States-San Francisco"
+  }
+]
